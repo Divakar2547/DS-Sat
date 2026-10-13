@@ -1,0 +1,6 @@
+host_group,network_zone
+workstations,internal
+servers,dmz
+lab_devices,internal
+guest_network,external
+retired_group,unknown
